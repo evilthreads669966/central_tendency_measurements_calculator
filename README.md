@@ -1,6 +1,6 @@
 # Central Tendency Measurements Calculator
 
-A command line app for calculating central tendency measurements of a set of numbers.
+A command line app for calculating the central tendency measurements of a set of numbers.
 
 ```
 Copyright 2023 Chris Basinger
